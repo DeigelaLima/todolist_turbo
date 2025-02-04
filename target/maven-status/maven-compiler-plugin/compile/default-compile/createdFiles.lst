@@ -1,0 +1,10 @@
+br/com/deigelalima/todolist/filter/FilterTaskAuth.class
+br/com/deigelalima/todolist/task/TaskController.class
+br/com/deigelalima/todolist/errors/ExceptionHandlerController.class
+br/com/deigelalima/todolist/user/UserController.class
+br/com/deigelalima/todolist/task/TaskModel.class
+br/com/deigelalima/todolist/utils/Utils.class
+br/com/deigelalima/todolist/user/IUserRepository.class
+br/com/deigelalima/todolist/user/UserModel.class
+br/com/deigelalima/todolist/TodolistApplication.class
+br/com/deigelalima/todolist/task/ITaskRepository.class

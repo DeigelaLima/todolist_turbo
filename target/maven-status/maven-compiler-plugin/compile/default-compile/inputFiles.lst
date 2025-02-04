@@ -1,0 +1,10 @@
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/TodolistApplication.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/errors/ExceptionHandlerController.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/filter/FilterTaskAuth.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/task/ITaskRepository.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/task/TaskController.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/task/TaskModel.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/user/IUserRepository.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/user/UserController.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/user/UserModel.java
+/home/deigela/GITHUB/todolist_turbo/src/main/java/br/com/deigelalima/todolist/utils/Utils.java
